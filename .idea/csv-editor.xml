@@ -17,6 +17,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\language_detection_data_s.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\word_counts.csv">
           <value>
             <Attribute>
